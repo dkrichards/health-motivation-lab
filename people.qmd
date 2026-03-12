@@ -1,0 +1,49 @@
+---
+title: "People"
+title-block-style: none
+about:
+  template: trestles
+  image: images/dylan-richards.jpg
+  image-alt: "Dylan Richards"
+  image-width: 16em
+  image-shape: rounded
+  links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: /files/dylan-richards-cv.pdf
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=b6pz5ogAAAAJ
+    - icon: globe
+      text: OSF
+      href: https://osf.io/58vma/
+    - icon: envelope
+      text: Email
+      href: mailto:dkrichards@uga.edu
+---
+
+## Dylan K Richards, PhD
+
+Dr. Richards directs the Health Motivation Lab at the University of Georgia. His research examines motivation and health behavior change, with a particular focus on alcohol use, multiple health behavior change, and natural behavior change efforts such as Dry January and New Year’s resolutions.
+
+His work is grounded in self-determination theory and investigates how psychological need satisfaction and the internalization of motivation support sustained changes in health behavior. He is also interested in how health behaviors relate to chronic disease risk, including public understanding of the relationship between alcohol use and cancer.
+
+He is currently supported by an early career development award from the National Institute on Alcohol Abuse and Alcoholism (**[K01AA030789](https://reporter.nih.gov/project-details/K01AA030789)**).
+
+## Undergraduate Research Assistants
+
+- Roman Coulter
+- Sophia Dunn
+- Hamsini Isukapalli
+- Stefan Saboura
+- Sarah Taparauskas
+
+::: {.callout-join}
+
+### Interested in Joining the Lab?
+
+Dr. Richards will be reviewing applications for doctoral students this application cycle and we are often looking for motivated undergraduate students.
+
+If you are interested in working with the Health Motivation Lab, please visit the **[Join Us](join.qmd)** page for more information.
+
+:::

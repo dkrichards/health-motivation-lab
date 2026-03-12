@@ -1,0 +1,46 @@
+---
+title: "Contact"
+title-block-style: none
+---
+
+# Contact
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+## Health Motivation Lab
+
+**University of Georgia**  
+Department of Psychology
+
+📍 **Address**  
+[125 Baldwin St, Room 423  
+Athens, GA 30602](https://maps.google.com/?q=125+Baldwin+St+Athens+GA+30602)
+
+📧 **Email**  
+[healthmotivationlab@uga.edu](mailto:healthmotivationlab@uga.edu)
+
+👤 **Principal Investigator**  
+[Dr. Dylan Richards](mailto:dkrichards@uga.edu)
+
+:::
+
+::: {.column width="55%"}
+
+<iframe
+  src="https://www.google.com/maps?q=125+Baldwin+St+Athens+GA+30602&output=embed"
+  width="100%"
+  height="420"
+  style="border:0;"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+
+:::
+
+::::
+
+---
+
+If you are interested in **graduate or undergraduate opportunities** in the Health Motivation Lab, please visit the **[Join Us](join.qmd)** page.

@@ -1,0 +1,58 @@
+---
+title: "Join Us"
+title-block-style: none
+---
+
+# Join the Health Motivation Lab
+
+We welcome students who are excited about **motivation**, **health behavior change**, and using psychological science to improve **physical health and well-being**.
+
+::: {.join-grid}
+
+::: {.join-card}
+
+## Graduate Students
+
+Dr. Richards hopes to admit **two or more graduate students** in the upcoming admissions cycle.
+
+Applications are due **November 15, 2026** for **Fall 2027** admission. Applications should be submitted through the **Brain and Behavioral Sciences** area. More information about applying can be found on the [UGA Psychology Brain and Behavioral Sciences page](https://psychology.uga.edu/more-information-bbs-program){target="_blank"}.
+
+Students interested in working with Dr. Richards should:
+
+- mention **Dr. Richards by name** in their cover letter
+- discuss how their **interests and experiences align** with the lab’s research
+
+Students who are a particularly good fit will have interests related to **motivation**, **health behavior change**, **alcohol use**, **multiple health behavior change**, and related topics in **health psychology**.
+
+:::
+
+::: {.join-card}
+
+## Undergraduate Research Assistants
+
+Each semester, the lab generally has **5–10 undergraduate research assistant positions** available.
+
+Enrollment in **PSYC 4800/4850** or **CURO research courses (4960R, 4970R & 4980R)** for course credit is strongly encouraged, provided prerequisite and other departmental conditions are met. 
+
+Students interested in **applying psychology to improve physical health** are especially encouraged to apply. The lab is **not** a good fit for students interested in gaining experience with neuroscience methods. We prioritize students who can dedicate **one year or more** to working in the lab.
+
+Apply here: [Undergraduate RA Application Form](https://forms.gle/PLEUQaT45cYzqX9t7){target="_blank"}.
+
+**Deadlines**
+
+- **July 1** for the **Fall** semester
+- **December 1** for the **Spring** semester
+
+We do **not** follow up with every applicant. Students who move forward in the process will be **contacted for an in-person interview**.
+
+:::
+
+:::
+
+::: {.callout-join}
+
+### Questions?
+
+If you have questions about graduate or undergraduate opportunities in the lab, please feel free to [email Dr. Richards](mailto:dkrichards@uga.edu).
+
+:::

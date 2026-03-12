@@ -1,0 +1,15 @@
+{
+  "hash": "c3d36750f133c818beb370300d6ea023",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"People\"\nexecute:\n  echo: false\n---\n\n\n<div class='pi-profile'>\n  <div class='pi-left'>\n    <img src='images/dylan-richards.jpg' class='pi-img' alt='Dylan Richards'>\n  </div>\n  <div class='pi-right'>\n    <h2>Dylan Richards</h2>\n    <div class='pi-role'>Principal Investigator</div>\n    <p>Dylan Richards directs the Health Motivation Lab at the University of Georgia. His research examines motivation and health behavior change, with a particular focus on alcohol use, responsible drinking, multiple health behavior change, and natural behavior change efforts such as Dry January and New Year's resolutions.</p>\n    <p>His work is grounded in self-determination theory and investigates how psychological need satisfaction and the internalization of motivation support sustained changes in health behavior. He is also interested in how health behaviors relate to chronic disease risk, including public understanding of the relationship between alcohol use and cancer.</p>\n    <div class='profile-links'>\n      <a href='files/dylan-richards-cv.pdf' target='_blank'>CV</a>\n      <a href='https://scholar.google.com/citations?user=b6pz5ogAAAAJ' target='_blank'>Google Scholar</a>\n      <a href='https://osf.io/58vma/' target='_blank'>OSF</a>\n      <a href='mailto:dkrichards@uga.edu' target='_blank'>Email</a>\n    </div>\n  </div>\n</div>\n\n\n\n<h2>Undergraduate Research Assistants</h2>\n\n<ul class='ug-list'>\n\n<li>Roman Coulter</li>\n<li>Sophia Dunn</li>\n<li>Hamsini Isukapalli</li>\n<li>Stefan Saboura</li>\n<li>Sarah Taparauskas</li>\n\n\n</ul>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

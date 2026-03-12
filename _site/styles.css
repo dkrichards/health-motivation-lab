@@ -1,0 +1,463 @@
+/* =========================
+UGA COLOR PALETTE
+========================= */
+
+:root {
+  --uga-red: #BA0C2F;
+  --uga-black: #000000;
+  --uga-gray-dark: #63666A;
+  --uga-gray-light: #F1F2F2;
+  --border-light: #e3e3e3;
+  --border-medium: #d9d9d9;
+  --shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.04);
+  --shadow-hover: 0 6px 14px rgba(0, 0, 0, 0.08);
+}
+
+/* =========================
+GLOBAL
+========================= */
+
+body {
+  color: var(--uga-black);
+  line-height: 1.65;
+}
+
+main.content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  transition: color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+/* Hide automatic Quarto page title blocks */
+#title-block-header,
+.quarto-title-block,
+.quarto-title-banner {
+  display: none !important;
+}
+
+/* =========================
+NAVBAR
+========================= */
+
+.navbar {
+  background-color: white;
+  border-bottom: 2px solid var(--uga-red);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  color: var(--uga-black) !important;
+  letter-spacing: 0.01em;
+}
+
+.navbar-nav .nav-link {
+  color: var(--uga-gray-dark) !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--uga-red) !important;
+}
+
+/* =========================
+TYPOGRAPHY
+========================= */
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+}
+
+h2 {
+  border-bottom: 2px solid var(--uga-red);
+  padding-bottom: 4px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin-bottom: 0.6rem;
+}
+
+/* =========================
+REUSABLE CARD STYLES
+========================= */
+
+.research-card,
+.join-card,
+.project-card,
+.contact-card {
+  background-color: white;
+  border: 1px solid var(--border-light);
+  border-radius: 10px;
+  padding: 1.25rem;
+  box-shadow: var(--shadow-soft);
+}
+
+.research-card,
+.join-card,
+.project-card {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.research-card:hover,
+.join-card:hover,
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+
+/* =========================
+HERO
+========================= */
+
+.hero {
+  background-color: var(--uga-gray-light);
+  padding: 3.25rem 2.25rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--uga-black);
+}
+
+.hero p {
+  font-size: 1.1rem;
+  max-width: 750px;
+  color: var(--uga-gray-dark);
+  margin-bottom: 0;
+}
+
+/* =========================
+HOMEPAGE IMAGE GRID
+========================= */
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
+  max-width: 700px;
+  margin: 1.5rem auto 2rem auto;
+}
+
+.hero-grid img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  border-radius: 8px;
+  background-color: white;
+}
+
+/* =========================
+RESEARCH AREA CARDS
+========================= */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.research-card h3 {
+  margin-top: 0;
+}
+
+/* =========================
+PEOPLE
+========================= */
+
+.people-card {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.people-img {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.people-name {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+/* About page template tweaks */
+.quarto-about-trestles ul,
+.quarto-about-broadside ul {
+  margin-top: 0.5rem;
+}
+
+/* =========================
+NEWS
+========================= */
+
+.news-date {
+  color: var(--uga-gray-dark);
+  font-size: 0.9em;
+}
+
+.news-item {
+  margin-bottom: 1.4rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+/* Optional sidebar box for specific right columns */
+.sidebar-column {
+  background-color: var(--uga-gray-light);
+  padding: 1.2rem;
+  border-radius: 8px;
+}
+
+/* =========================
+CUSTOM CALLOUT
+========================= */
+
+.callout-join {
+  background-color: var(--uga-gray-light);
+  border-left: 4px solid var(--uga-red);
+  padding: 1.2rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+
+.callout-join h3 {
+  margin-top: 0;
+  font-weight: 600;
+}
+
+.callout-join a {
+  font-weight: 600;
+}
+
+/* =========================
+BUTTON-LIKE LINKS
+========================= */
+
+.pub-button,
+.profile-button,
+.scholar-button {
+  display: inline-block;
+  margin-top: 0.45rem;
+  margin-right: 0.45rem;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--border-medium);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--uga-black);
+  background-color: white;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.pub-button:hover,
+.profile-button:hover,
+.scholar-button:hover {
+  border-color: var(--uga-red);
+  color: var(--uga-red);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+/* =========================
+PUBLICATIONS
+========================= */
+
+.pub-sidebar {
+  position: sticky;
+  top: 90px;
+  padding: 1rem;
+  background-color: var(--uga-gray-light);
+  border-radius: 10px;
+}
+
+.pub-sidebar h3,
+.pub-sidebar h4 {
+  margin-top: 0;
+}
+
+.pub-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.pub-sidebar li {
+  margin-bottom: 0.45rem;
+}
+
+.pub-sidebar a {
+  text-decoration: none;
+  color: var(--uga-gray-dark);
+  font-weight: 600;
+}
+
+.pub-sidebar a:hover {
+  color: var(--uga-red);
+}
+
+.pub-entry {
+  margin-bottom: 0.75rem;
+  padding: 0.6rem 0 0.8rem 0;
+  border-bottom: 1px solid var(--border-light);
+  line-height: 1.45;
+}
+
+.pub-entry p {
+  margin-bottom: 0;
+}
+
+/* =========================
+JOIN US
+========================= */
+
+.join-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.join-card h2 {
+  margin-top: 0;
+}
+
+/* =========================
+CONTACT
+========================= */
+
+iframe {
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* =========================
+PROJECTS / RESEARCH PAGE
+========================= */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.project-card h2 {
+  margin-top: 0.4rem;
+  margin-bottom: 0.6rem;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.project-status {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--uga-gray-dark);
+  background-color: var(--uga-gray-light);
+  border-radius: 999px;
+  padding: 0.25rem 0.6rem;
+  margin-bottom: 0.35rem;
+}
+
+/* =========================
+RESPONSIVE
+========================= */
+
+@media (max-width: 900px) {
+  .pub-sidebar {
+    position: static;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .join-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 2rem 1.25rem;
+  }
+
+  .hero-grid img {
+    height: 160px;
+  }
+
+  .columns {
+    gap: 1rem;
+  }
+}
+
+.pub-sidebar-column {
+  padding-right: 1.5rem;
+  box-sizing: border-box;
+}
+
+.pub-sidebar {
+  position: sticky;
+  top: 90px;
+  padding: 1rem;
+  background-color: var(--uga-gray-light);
+  border-radius: 10px;
+  border: 1px solid var(--border-light);
+}
+
+.featured-paper {
+  background-color: var(--uga-gray-light);
+  border-left: 5px solid var(--uga-red);
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.featured-paper h2 {
+  margin-top: 0.4rem;
+  margin-bottom: 0.6rem;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.featured-label {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: white;
+  background-color: var(--uga-red);
+  border-radius: 999px;
+  padding: 0.3rem 0.65rem;
+  margin-bottom: 0.5rem;
+}
+
+.featured-meta {
+  color: var(--uga-gray-dark);
+  font-size: 0.95rem;
+  margin-bottom: 0.9rem;
+}
+
+.featured-links {
+  margin-top: 0.8rem;
+}

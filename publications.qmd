@@ -1,0 +1,258 @@
+---
+title: "Publications"
+title-block-style: none
+---
+
+:::: {.columns}
+
+::: {.column .pub-sidebar-column width="18%"}
+
+<div class="pub-sidebar">
+
+### Year
+
+- [In Press](#inpress)
+- [2026](#y2026)
+- [2025](#y2025)
+- [2024](#y2024)
+- [2023](#y2023)
+- [2022](#y2022)
+- [2021](#y2021)
+- [2020](#y2020)
+- [2019](#y2019)
+- [2018](#y2018)
+
+</div>
+
+:::
+
+::: {.column width="82%"}
+
+A current and complete list of publications is available on my
+[Google Scholar profile](https://scholar.google.com/citations?user=b6pz5ogAAAAJ){target="_blank"}.
+
+If you would like a copy of any of my publications, please [email me](mailto:dkrichards@uga.edu).
+
+## In Press / Advance Online {#inpress}
+
+::: {.pub-entry}
+Schwebel, F. J., **Richards, D. K.**, Kirouac, M., McCool, M. W., Boness, C. L., Pearson, M. R., & Witkiewitz, K. The measurement of harm reduction goals and outcomes for substance use: Current state and future directions. *Journal of Prevention and Health Promotion*, 1–26. [DOI](https://doi.org/10.1177/26320770251412852){.pub-button target="_blank"}
+:::
+
+## 2026 {#y2026} 
+
+::: {.pub-entry}
+**Richards, D. K.**, Grubbs, J. B., Garcia, C. C., Pearson, M. R., & Field, C. A. (2026). Associations of psychological needs with alcohol use and related outcomes. *Psychology of Addictive Behaviors, 40*(2), 176–188. [DOI](https://doi.apa.org/doi/10.1037/adb0001115){.pub-button target="_blank"}
+:::
+
+## 2025 {#y2025} 
+
+::: {.pub-entry}
+Morris, J., **Richards, D. K.**, & Albery, I. P. (2025). Problem recognition as a discrete concept for change processes in problematic alcohol use. *Current Addiction Reports, 12*(1), 23. [DOI](https://link.springer.com/10.1007/s40429-025-00634-x){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Pearson, M. R., Montes, K. S., Joseph, V. W., **Richards, D. K.**, Schwebel, F. J., & Tonigan, J. S. (2025). Associations of alcoholic and recovery identities with alcohol-related outcomes and mechanisms of behavior change among early Alcoholics Anonymous affiliates: One day at a time. *Alcoholism Treatment Quarterly, 1–11.* [DOI](https://www.tandfonline.com/doi/full/10.1080/07347324.2025.2582548){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, McCool, M. W., Pearson, M. R., & Addictions Research Team. (2025). A self-determination theory perspective of motivations for cannabis-related harm reduction behaviours: Evaluation of an expanded and adapted Treatment Self-Regulation Questionnaire. *Psychology & Health, 1–23.* [DOI](https://www.tandfonline.com/doi/full/10.1080/08870446.2025.2489945){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Greń, J., **Richards, D. K.**, Pearson, M. R., & Ostaszewski, K. (2025). Development and validation of the Substance Use Protective Strategies Scale (SUPSS) among Polish young adults using various psychoactive substances. *International Journal of Drug Policy, 143*, 104216. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0955395923002633){.pub-button target="_blank"}
+:::
+
+## 2024 {#y2024} 
+
+::: {.pub-entry}
+Garcia, C. C., **Richards, D. K.**, Tuchman, F. R., Hallgren, K. A., Kranzler, H. R., Aubin, H.-J., O’Malley, S. S., Mann, K., Aldridge, A., Hoffman, M., Anton, R. F., & Witkiewitz, K. (2024). Reductions in World Health Organization risk drinking level are associated with improvements in sleep problems among individuals with alcohol use disorder. *Alcohol and Alcoholism, 59*(3), agae022. [DOI](https://academic.oup.com/alcalc/article/doi/10.1093/alcalc/agae022/7644134){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., & Addictions Research Team. (2024). Measurement of the self-determination continuum of motivation for engaging in alcohol-related harm reduction behaviors: Improved content coverage of the Treatment Self-Regulation Questionnaire. *Experimental and Clinical Psychopharmacology, 32*(5), 554–565. [DOI](https://doi.apa.org/doi/10.1037/pha0000721){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, & Pearson, M. R. (2024). Factor structure, group invariance, and concurrent validity of scores from the college eating and drinking behavior scale among U.S. college students. *Eating Behaviors, 53*, 101876. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S1471015324000357){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Tuchman, F. R., Hallgren, K. A., Kranzler, H. R., Aubin, H.-Jean, O'Malley, S. S., Mann, K., Aldridge, A., Anton, R. F., & Witkiewitz, K. (2024). Reductions in World Health Organization risk drinking level are associated with reductions in alcohol use disorder diagnosis and criteria: Evidence from an alcohol pharmacotherapy trial. *Journal of Addiction Medicine, 18*(4), 418–424. [DOI](https://journals.lww.com/10.1097/ADM.0000000000001303){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Schwebel, F. J., Pearson, M. R., **Richards, D. K.**, McCabe, C. J., Joseph, V. W., Protective Strategies Study Team, & Addictions Research Team. (2024). Regression tree applications to studying alcohol-related problems among college students. *Experimental and Clinical Psychopharmacology, 32*(5), 542–553. [DOI](https://doi.apa.org/doi/10.1037/pha0000718){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Schwebel, F. J., **Richards, D. K.**, Andersson, C., & Larimer, M. E. (2024). A cross-cultural comparison of negative alcohol-related consequences in the United States and Sweden: Measurement invariance of the Rutgers Alcohol Problem Index. *Assessment, 31*(4), 899–907. [DOI](https://journals.sagepub.com/doi/10.1177/10731911231195834){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Tuchman, F. R., Hallgren, K. A., **Richards, D. K.**, Aldridge, A., Anton, R. F., Aubin, H.-J., Kranzler, H. R., Mann, K., O'Malley, S. S., & Witkiewitz, K. (2024). Reductions in WHO risk drinking levels correlate with alcohol craving among individuals with alcohol use disorder. *Alcohol: Clinical and Experimental Research, 48*(2), 420–429. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/acer.15257){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Joseph, V. W., Moniz-Lewis, D. I. K., **Richards, D. K.**, Pearson, M. R., Luoma, J. B., & Witkiewitz, K. (2024). Internalized shame among justice-involved women in substance use disorder treatment: Measurement invariance and changes during treatment. *Stigma and Health, 9*(3), 303–310. [DOI](https://doi.apa.org/doi/10.1037/sah0000427){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Schwebel, F. J., Field, C. A., Pearson, M. R., & Addictions Research Team. (2024). The associations of basic psychological need satisfaction and need frustration with cannabis-related outcomes in a multi-site sample of college students. *Journal of Psychoactive Drugs, 56*(2), 177–186. [DOI](https://www.tandfonline.com/doi/full/10.1080/02791072.2023.2191605){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Schwebel, F. J., **Richards, D. K.**, Pearson, M. R., & Witkiewitz, K. (2024). Initial psychometric testing of the harm reduction self-efficacy scale. *Addiction Research & Theory, 32*(6), 392–399. [DOI](https://www.tandfonline.com/doi/full/10.1080/16066359.2023.2282543){.pub-button target="_blank"}
+:::
+
+## 2023 {#y2023} 
+
+::: {.pub-entry}
+Portillo, C., **Richards, D. K.**, Morera, O. F., & Field, C. A. (2023). The influence of cognitive and affective components of the sentinel event on alcohol use following a brief intervention with trauma patients. *Alcohol: Clinical and Experimental Research, 47*(6), 1167–1178. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/acer.15083){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.** (2023). Advancing theory of motivation to change alcohol use: A commentary on Tan et al. (2023). *Alcohol: Clinical and Experimental Research, 47*(10), 1833–1835. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/acer.15171){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Greń, J. D., & Pearson, M. R. (2023). Profiles of alcohol and cannabis protective behavioral strategies use across two large, multi-site college student samples of concurrent alcohol and cannabis users. *Addictive Behaviors, 146*, 107789. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460323001843){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Schwebel, F. J., Joseph, V. W., Pearson, M. R., & Addictions Research Team. (2023). A comprehensive examination of motivational profiles for alcohol-related behaviors among college students. *Experimental and Clinical Psychopharmacology, 31*(3), 652–661. [DOI](https://doi.apa.org/doi/10.1037/pha0000605){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Waddell, J. T., & Addictions Research Team. (2023). Indirect associations between impulsivity and alcohol outcomes through motives for drinking responsibly among U.S. college students: An integration of self-determination theory and the acquired preparedness model. *Addiction Research & Theory, 31*(5), 313–320. [DOI](https://www.tandfonline.com/doi/full/10.1080/16066359.2022.2161529){.pub-button target="_blank"}
+:::
+
+## 2022 {#y2022} 
+
+::: {.pub-entry}
+Pfund, R. A., **Richards, D. K.**, Boness, C. L., Schwebel, F. J., Tonigan, J. S., Maisto, S. A., & Witkiewitz, K. (2022). Relative and interactive associations of psychosocial intervention and Alcoholics Anonymous attendance with alcohol use disorder outcomes. *Journal of Studies on Alcohol and Drugs.* [DOI](https://www.jsad.com/doi/10.15288/jsad.22-00042){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+López, C. I., **Richards, D. K.**, & Field, C. A. (2022). Perceived discrimination and alcohol-related problems among Hispanic college students: The protective role of serious harm reduction behaviors. *Journal of Ethnicity in Substance Abuse, 21*(1), 272–283. [DOI](https://www.tandfonline.com/doi/full/10.1080/15332640.2020.1747040){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Pearson, M. R., Schwebel, F. J., **Richards, D. K.**, & Witkiewitz, K. (2022). Examining replicability in addictions research: How to assess and ways forward. *Psychology of Addictive Behaviors, 36*(3), 260–270. [DOI](https://doi.apa.org/doi/10.1037/adb0000730){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Morera, O. F., Schwebel, F. J., Pearson, M. R., & Field, C. A. (2022). Measurement invariance of the Readiness to Change Questionnaire among injured patients who received a brief intervention for alcohol use. *Assessment, 29*(8), 1942–1953. [DOI](http://journals.sagepub.com/doi/10.1177/10731911211040106){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., & Field, C. A. (2022). A comprehensive examination of alcohol-related motivations among college students: Unique relations of drinking motives and motivations for drinking responsibly. *Experimental and Clinical Psychopharmacology, 30*(6), 809–819. [DOI](https://doi.apa.org/doi/10.1037/pha0000526){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Schwebel, F. J., Cowie, K. D., Pearson, M. R., & Witkiewitz, K. (2022). Measurement invariance of the University of Rhode Island Change Assessment Scale in Project MATCH: An exploratory structural equation modeling approach. *Alcoholism: Clinical and Experimental Research, 46*(7), 1258–1267. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/acer.14849){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Schwebel, F. J., Pearson, M. R., & Protective Strategies Study Team. (2022). A test of interaction effects between cannabis protective behavioral strategies and antecedents of cannabis-related consequences. *Journal of Psychoactive Drugs, 54*(1), 61–69. [DOI](https://www.tandfonline.com/doi/full/10.1080/02791072.2021.1909188){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Schwebel, F. J., **Richards, D. K.**, Pfund, R. A., Joseph, V. W., Pearson, M. R., & Marijuana Outcomes Study Team. (2022). Using decision trees to identify salient predictors of cannabis-related outcomes. *Journal of Psychoactive Drugs, 54*(5), 419–428. [DOI](https://www.tandfonline.com/doi/full/10.1080/02791072.2021.2014081){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Schwebel, F. J., Weinstein, A. P., **Richards, D. K.**, Bravo, A. J., & Pearson, M. R. (2022). Examining cross-country and sex differences on a comprehensive assessment of protective behavioral strategies for alcohol. *Substance Use & Misuse, 57*(1), 47–56. [DOI](https://www.tandfonline.com/doi/full/10.1080/10826084.2021.1990330){.pub-button target="_blank"}
+:::
+
+## 2021 {#y2021} 
+
+::: {.pub-entry}
+Alvarez, M. J., **Richards, D. K.**, Oviedo Ramirez, S., & Field, C. A. (2021). Social network heavy drinking moderates the effects of a brief motivational intervention for alcohol use among injured patients. *Addictive Behaviors, 112*, 106594. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460320307243){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Montes, K. S., **Richards, D. K.**, & Pearson, M. R. (2021). A novel approach to assess descriptive and injunctive norms for college student marijuana use. *Addictive Behaviors, 117*, 106755. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460320308844){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Pearson, M. R., Wilson, A. D., **Richards, D. K.**, & Witkiewitz, K. (2021). Reconsidering alcohol treatment non-responders: Psychosocial functioning among heavy drinkers 3 years following treatment. *Addiction, 116*(5), 1262–1269. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/add.15280){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Fetterman, A. K., Krebs, M.-C., Neugebauer, J., Ray, D. G., & Sassenberg, K. (2021). Positive and negative emotions predict weight loss intentions and behaviors beyond theory of planned behavior constructs. *Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity, 26*(3), 829–838. [DOI](https://link.springer.com/10.1007/s40519-020-00917-4){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Morera, O. F., & Field, C. A. (2021). The psychometric properties of a version of the Treatment Self-Regulation Questionnaire for assessing motivations for responsible drinking. *Journal of American College Health, 69*(7), 742–749. [DOI](https://www.tandfonline.com/doi/full/10.1080/07448481.2019.1706536){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., & Field, C. A. (2021). Further validation of the Treatment Self-Regulation Questionnaire for assessing motivations for responsible drinking: A test of self-determination theory. *Experimental and Clinical Psychopharmacology, 29*(6), 679–688. [DOI](https://doi.apa.org/doi/10.1037/pha0000405){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., Hallgren, K. A., Heather, N., & Witkiewitz, K. (2021). An application of moderated nonlinear factor analysis to develop a commensurate measure of alcohol problems across four alcohol treatment studies. *Drug and Alcohol Dependence, 229*, 109068. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0376871621005639){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., & Witkiewitz, K. (2021). Understanding alcohol harm reduction behaviors from the perspective of self-determination theory: A research agenda. *Addiction Research & Theory, 29*(5), 392–397. [DOI](https://www.tandfonline.com/doi/full/10.1080/16066359.2020.1863378){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Schwebel, F. J., Bravo, A. J., & Pearson, M. R. (2021). A comparison of cannabis protective behavioral strategies use across cultures and sex. *Addictive Behaviors, 120*, 106966. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460321001519){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Schwebel, F. J., Sotelo, M., Pearson, M. R., & Marijuana Outcomes Study Team. (2021). Self-reported symptoms of cannabis use disorder: Psychometric testing and validation. *Experimental and Clinical Psychopharmacology, 29*(2), 157–165. [DOI](https://doi.apa.org/doi/10.1037/pha0000455){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Schwebel, F. J., **Richards, D. K.**, & Pearson, M. R. (2021). A test of interaction effects between alcohol protective behavioral strategies and antecedents of alcohol-related consequences. *Addictive Behaviors, 114*, 106707. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460320308376){.pub-button target="_blank"}
+:::
+
+## 2020 {#y2020} 
+
+::: {.pub-entry}
+Curtis, S. R., **Richards, D. K.**, & Jones, D. N. (2020). The association between psychopathy and influencing others to use substances. *Substance Use & Misuse, 55*(7), 1097–1105. [DOI](https://www.tandfonline.com/doi/full/10.1080/10826084.2020.1729196){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Field, C. A., **Richards, D. K.**, Castro, Y., Alonso Cabriales, J., Wagler, A., & Von Sternberg, K. (2020). The effects of a brief motivational intervention for alcohol use through stages of change among nontreatment seeking injured patients. *Alcoholism: Clinical and Experimental Research, 44*(11), 2361–2372. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/acer.14466){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Lloyd, C. D., Hanson, R. K., **Richards, D. K.**, & Serin, R. C. (2020). Reassessment improves prediction of criminal recidivism: A prospective study of 3,421 individuals in New Zealand. *Psychological Assessment, 32*(6), 568–581. [DOI](https://doi.apa.org/doi/10.1037/pas0000813){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Morera, O. F., Cabriales, J. A., Smith, J. C., & Field, C. A. (2020). Factor, concurrent and predictive validity of the Readiness to Change Questionnaire [Treatment Version] among non-treatment-seeking individuals. *Alcohol and Alcoholism, 55*(4), 409–415. [DOI](https://academic.oup.com/alcalc/article/55/4/409/5823514){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., & Field, C. A. (2020). Profiles of motivations for responsible drinking among college students: A self-determination theory perspective. *Addictive Behaviors, 111*, 106550. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460320306808){.pub-button target="_blank"}
+:::
+
+## 2019 {#y2019} 
+
+::: {.pub-entry}
+Cabriales, J. A., **Richards, D. K.**, & Cooper, T. V. (2019). Heterogeneity of intermittent smokers in a Hispanic college student sample. *Addictive Behaviors, 96*, 94–99. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0306460318315144){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+**Richards, D. K.**, Pearson, M. R., Morera, O. F., & Field, C. A. (2019). Protective behavioral strategies predict alcohol-related problems among injured patients following a brief intervention. *Drug and Alcohol Dependence, 205*, 107535. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0376871619302947){.pub-button target="_blank"}
+:::
+
+## 2018 {#y2018} 
+
+::: {.pub-entry}
+**Richards, D. K.**, Puentes, R. P., Gonzales, R., Smith, J. C., Field, C. A., & Morera, O. F. (2018). A psychometric evaluation of the Protective Behavioral Strategies Scale-20 among internet samples of adult drinkers. *Addictive Behaviors Reports, 8*, 71–78. [DOI](https://linkinghub.elsevier.com/retrieve/pii/S2352853218300075){.pub-button target="_blank"}
+:::
+
+::: {.pub-entry}
+Riskind, J. H., & **Richards, D. K.** (2018). The effect of germ movement on the construal of mental states in germs: The moderating role of contamination fear. *Cognitive Therapy and Research, 42*(1), 36–47. [DOI](http://link.springer.com/10.1007/s10608-017-9877-2){.pub-button target="_blank"}
+:::
+
+:::
+
+::::
