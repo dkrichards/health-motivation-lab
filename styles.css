@@ -583,3 +583,13 @@ RESPONSIVE
   color: var(--uga-gray-dark);
   margin-bottom: 0;
 }
+
+.about-header h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.about-header p {
+  margin-bottom: 0.6rem;
+  color: var(--uga-gray-dark);
+}
