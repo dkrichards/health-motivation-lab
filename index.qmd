@@ -8,7 +8,7 @@ execute:
 
 # Health Motivation Lab
 
-We study the **psychology of health behavior change** and develop **evidence-based interventions** to promote long-term health and well-being.
+We study the **psychology of health behavior change** and develop evidence-based interventions to promote long-term health and well-being.
 
 :::
 
@@ -24,13 +24,33 @@ We study the **psychology of health behavior change** and develop **evidence-bas
 
 :::
 
+::: {.home-intro}
+
 ## About the Lab
 
-The **Health Motivation Lab**, directed by **Dr. Dylan K. Richards**, is based in the **Department of Psychology at the University of Georgia**. We study what motivates people to **change their health behaviors** and how that knowledge can be used to **improve people’s health and well-being**.
+The Health Motivation Lab, directed by Dr. Dylan K. Richards, is based in the Department of Psychology at the University of Georgia. We study what motivates people to change their health behaviors and how that knowledge can be used to improve people’s health and well-being.
 
-Much of our work has focused on why people **quit drinking or cut back and adopt responsible drinking habits, such as using a designated driver**. More recently, we have expanded our research to include other health behaviors, such as **tobacco use, diet, and exercise**, as well as how these behaviors relate to **chronic disease risk**. We are particularly interested in **natural behavior change**, such as **Dry January and New Year’s resolutions**, which provide opportunities to study and promote health behavior change. We also study **multiple health behavior change**, examining how people change **two or more health behaviors at the same time**. Finally, we investigate how health behaviors relate to **chronic disease risk**, especially **heart disease and cancer**.
+Much of our work has focused on why people quit drinking or cut back and adopt responsible drinking habits, such as using a designated driver. More recently, we have expanded our research to include other health behaviors, such as tobacco use, diet, and exercise, as well as how these behaviors relate to chronic disease risk.
 
-Our research has been supported by the **National Institutes of Health, American Cancer Society, and American Psychological Association**.
+We are particularly interested in natural behavior change, such as Dry January and New Year’s resolutions, which provide opportunities to study and promote health behavior change. We also study multiple health behavior change, examining how people change two or more health behaviors at the same time. Finally, we investigate how health behaviors relate to chronic disease risk, especially heart disease and cancer.
+
+::: {.funder-box}
+
+**Supported By**
+
+<div class="funder-logos">
+  <img src="images/funders/nih.png" alt="National Institutes of Health">
+  <img src="images/funders/acs.png" alt="American Cancer Society">
+  <img src="images/funders/apa.svg" alt="American Psychological Association">
+</div>
+
+<p class="funder-note">
+Supported by the National Institutes of Health, American Cancer Society, and American Psychological Association.
+</p>
+
+:::
+
+:::
 
 ## Research Areas
 
@@ -38,17 +58,17 @@ Our research has been supported by the **National Institutes of Health, American
 
 ::: {.research-card}
 ### Self-Determined Motivation
-We study the transition from external to internal motives as the driver of long-term health behavior change. 
+We study the transition from external to internal motives as the driver of long-term health behavior change.
 :::
 
 ::: {.research-card}
 ### Psychological Needs
-We study support for autonomy, competence, and relatedness as essential conditions for initiating and maintaining health behavior change. 
+We study support for autonomy, competence, and relatedness as essential conditions for initiating and maintaining health behavior change.
 :::
 
 ::: {.research-card}
 ### Responsible Drinking
-We study why people quit drinking or cut back and adopt responsible drinking habits, such as using a designated driver and setting limits on how much they drink. 
+We study why people quit drinking or cut back and adopt responsible drinking habits, such as using a designated driver and setting limits on how much they drink.
 :::
 
 ::: {.research-card}
@@ -58,7 +78,7 @@ We study how people change alcohol and tobacco use, diet, physical activity, and
 
 ::: {.research-card}
 ### Natural Change
-We study natural change efforts such as Dry January and New Year’s resolutions to understand how a "fresh start" might result in health behavior change and provide an opportune time to improve people's health.
+We study natural change efforts such as Dry January and New Year’s resolutions to understand how a "fresh start" might result in health behavior change and provide an opportune time to improve people’s health.
 :::
 
 ::: {.research-card}
@@ -90,4 +110,7 @@ for (item in news) {
 item$title, item$date, item$text))
 }
 ```
+
+
+
 

@@ -3,7 +3,8 @@ project:
 
 website:
   title: "Health Motivation Lab | University of Georgia"
-  site-url: https://yourusername.github.io/health-motivation-lab/
+  site-url: https://healthmotivationlab.com
+  google-analytics: "G-G86RXVB6QS"
 
   navbar:
     left:
@@ -21,12 +22,18 @@ website:
         href: contact.qmd
 
   page-footer:
-    left: |
-      Health Motivation Lab  
-      University of Georgia
-    right: |
-      Built with Quarto
-
+    center: |
+      © 2026 Health Motivation Lab · University of Georgia<br>
+      <span class="footer-built">
+        Built with 
+        <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
+          <img src="images/icons/rstudio.svg" class="footer-icon" alt="RStudio">
+        </a>
+        <a href="https://quarto.org/" target="_blank">
+          <img src="images/icons/quarto.png" class="footer-icon" alt="Quarto">
+        </a>
+      </span>
+  
 format:
   html:
     theme: cosmo

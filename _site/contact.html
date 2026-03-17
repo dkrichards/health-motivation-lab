@@ -67,6 +67,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G86RXVB6QS"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-G86RXVB6QS', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -156,7 +165,7 @@ Athens, GA 30602</a></p>
 </div>
 </div>
 <hr>
-<p>If you are interested in <strong>graduate or undergraduate opportunities</strong> in the Health Motivation Lab, please visit the <strong><a href="./join.html">Join Us</a></strong> page.</p>
+<p>If you are interested in graduate or undergraduate opportunities in the Health Motivation Lab, please visit the <strong><a href="./join.html">Join Us</a></strong> page.</p>
 
 
 </section>
@@ -234,7 +243,7 @@ Athens, GA 30602</a></p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/yourusername\.github\.io\/health-motivation-lab\/");
+        var filterRegex = new RegExp("https:\/\/healthmotivationlab\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -565,15 +574,14 @@ Athens, GA 30602</a></p>
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Health Motivation Lab<br>
-University of Georgia</p>
-</div>   
+      &nbsp;
+    </div>   
     <div class="nav-footer-center">
+<p>© 2026 Health Motivation Lab · University of Georgia<br> <span class="footer-built"> Built with <a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img src="images/icons/rstudio.svg" class="footer-icon" alt="RStudio"> </a> <a href="https://quarto.org/" target="_blank"> <img src="images/icons/quarto.png" class="footer-icon" alt="Quarto"> </a> </span></p>
+</div>
+    <div class="nav-footer-right">
       &nbsp;
     </div>
-    <div class="nav-footer-right">
-<p>Built with Quarto</p>
-</div>
   </div>
 </footer>
 

@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications | Health Motivation Lab"
 title-block-style: none
 ---
 

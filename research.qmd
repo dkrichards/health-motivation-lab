@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: "Research | Health Motivation Lab"
 title-block-style: none
 ---
 
 # Current Projects
 
-This page highlights **current projects the lab is especially excited about**. For a broader overview of the lab’s research areas, please visit the **[home page](index.qmd)**.
+This page highlights current projects the lab is especially excited about. For a broader overview of the lab’s research areas, please visit the **[home page](index.qmd)**.
 
 ::: {.featured-paper}
 
@@ -17,7 +17,7 @@ This page highlights **current projects the lab is especially excited about**. F
 Preprint • 2026
 </div>
 
-We conducted a scoping review of research on **New Year’s resolutions for health behavior change**. Our findings suggest that the new year is an underleveraged opportunity to study and promote behavior change. We discuss directions for future research.
+We conducted a scoping review of research on New Year’s resolutions for health behavior change. Our findings suggest that the new year is an underleveraged opportunity to study and promote behavior change. We discuss directions for future research.
 
 <div class="featured-links">
 
@@ -39,11 +39,11 @@ We conducted a scoping review of research on **New Year’s resolutions for heal
 
 ## Sober October Study
 
-This project examines **Sober October**, a month-long challenge in which people voluntarily **stop drinking alcohol for October**. These kinds of efforts provide a valuable opportunity to study **natural behavior change**, or an attempt to change their drinking on their own outside of formal treatment.
+This project examines Sober October, a month-long challenge in which people voluntarily stop drinking alcohol for October. These kinds of efforts provide a valuable opportunity to study natural behavior change, or an attempt to change their drinking on their own outside of formal treatment.
 
-As part of this **NIAAA-funded study**, we will be recruiting people who plan to quit drinking for **Sober October** to understand why people succeed in developing a healthier relationship with alcohol.
+As part of this NIAAA-funded study, we will be recruiting people who plan to quit drinking for Sober October to understand why people succeed in developing a healthier relationship with alcohol.
 
-Recruitment will begin in **September**. More information about participating will be posted here soon.
+Recruitment will begin in September. More information about participating will be posted here soon.
 
 :::
 
@@ -53,9 +53,9 @@ Recruitment will begin in **September**. More information about participating wi
 
 ## Understanding Alcohol and Cancer Risk
 
-This project examines whether knowledge about the relationship between **alcohol use and cancer risk** influences their **motivation to control their drinking**.
+This project examines whether knowledge about the relationship between alcohol use and cancer risk influences their motivation to control their drinking.
 
-Although alcohol is a **known carcinogen**, many people are unaware that alcohol use increases the risk for several types of cancer. In this study, we aim to better understand **knowledge of the alcohol-cancer link** and how this knowledge may shape people's intentions and efforts to **limit their drinking**.
+Although alcohol is a known carcinogen, many people are unaware that alcohol use increases the risk for several types of cancer. In this study, we aim to better understand knowledge of the alcohol-cancer link and how this knowledge may shape people's intentions and efforts to limit their drinking.
 
 :::
 

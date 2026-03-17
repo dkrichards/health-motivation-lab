@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact | Health Motivation Lab"
 title-block-style: none
 ---
 
@@ -43,4 +43,4 @@ Athens, GA 30602](https://maps.google.com/?q=125+Baldwin+St+Athens+GA+30602)
 
 ---
 
-If you are interested in **graduate or undergraduate opportunities** in the Health Motivation Lab, please visit the **[Join Us](join.qmd)** page.
+If you are interested in graduate or undergraduate opportunities in the Health Motivation Lab, please visit the **[Join Us](join.qmd)** page.
