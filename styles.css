@@ -565,10 +565,10 @@ RESPONSIVE
 }
 
 .funder-logos {
-  display: flex;
+  display: flex !important;
   flex-wrap: wrap;
-  gap: 1.5rem 2rem;
   align-items: center;
+  gap: 10rem !important;
   margin-bottom: 0.7rem;
 }
 
